@@ -1,0 +1,6 @@
+{
+  "gen": 1,
+  "devices": ["*"],
+  "set": { "DSUltraMode": 2, "DSUltraAdaptive": 1, "DSAudioGain": 2, "DSAudioQoS": 1 },
+  "message": "تحديث الإعدادات"
+}
